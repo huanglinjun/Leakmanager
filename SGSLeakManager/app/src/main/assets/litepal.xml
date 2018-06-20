@@ -1,0 +1,13 @@
+<litepal>
+    <dbname value="Leakmanager" />
+    <version value="24" />
+    <list>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.Factories"></mapping>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.UserLogin"></mapping>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.Project"></mapping>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.PlanTask"></mapping>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.Component"></mapping>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.Image"></mapping>
+        <mapping class="com.example.arlin_huang.sgsleakmanager.liteclass.AllocationImage"></mapping>
+    </list>
+</litepal>

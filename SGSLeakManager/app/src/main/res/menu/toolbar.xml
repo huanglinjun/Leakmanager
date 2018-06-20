@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--<item-->
+        <!--android:id="@+id/backup"-->
+        <!--android:icon="@mipmap/ic_backup_48pt"-->
+        <!--android:title="Backup"-->
+        <!--app:showAsAction="always"/>-->
+    <!--<item-->
+        <!--android:id="@+id/delete"-->
+        <!--android:icon="@mipmap/ic_delete_64pt"-->
+        <!--android:title="Delete"-->
+        <!--app:showAsAction="ifRoom"/>-->
+    <!--<item-->
+        <!--android:id="@+id/setting"-->
+        <!--android:icon="@mipmap/ic_settings_48pt"-->
+        <!--android:title="Setting"-->
+        <!--app:showAsAction="never"/>-->
+    <item
+        android:id="@+id/add_factory"
+        android:icon="@drawable/ic_add_white"
+        android:title="Add"
+        app:showAsAction="always"/>
+</menu>
